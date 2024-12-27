@@ -1,5 +1,4 @@
 # Sticks 
-=============
 
 
 ## Description
