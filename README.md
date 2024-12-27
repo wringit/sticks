@@ -3,7 +3,7 @@
 
 ## Description
 
-I got the idea for this while I was playing Sticks with my friend. It's supposed to take a Sticks configuration and figure out all possible paths that can lead to the first player (the one one the left) winning, but it kind of doesn't do that? Obviously, I can't make it list every single path, but I tried to make it not perform anything on a configuration if it hadn't already been visted, which means that no configuration will be seen twice in a path. This is probably why my code doesn't work. I don't know. Please help me.
+I got the idea for this while I was playing Sticks with my friend. It's supposed to take a Sticks configuration and figure out all possible paths that can lead to the first player (the one one the left) winning, but it kind of doesn't do that? Obviously, I can't make it list every single path, but I tried to make it not perform anything on a configuration if it had already been visited, which means that no configuration will be seen twice in a path. This is probably why my code doesn't work. I don't know. Please help me.
 
 Anyways, I got the idea for this while playing Sticks with my friend. I realized that, despite taking AP Computer Science, I hadn't written anything in a very long time. I thought that I should take some time to practice Java. At the time, I was completely unaware of the existence of Graph Theory and depth-first search, but I learned about it shortly after writing this program. 
 
